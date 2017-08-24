@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					889602FF1F4ECA2F0032D877 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = UY3K8G88QQ;
 						ProvisioningStyle = Automatic;
 					};
 					889603181F4ECA2F0032D877 = {
@@ -426,6 +427,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UY3K8G88QQ;
 				INFOPLIST_FILE = fastlane_demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.personal.jesse.fastlane-demo";
@@ -437,6 +439,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UY3K8G88QQ;
 				INFOPLIST_FILE = fastlane_demo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.personal.jesse.fastlane-demo";
