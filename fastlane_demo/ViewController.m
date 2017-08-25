@@ -9,6 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIButton *myButton;
+@property (weak, nonatomic) IBOutlet UILabel *mylabel;
 
 @end
 
@@ -17,8 +19,17 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+    
+    
+    
+    
 }
 
+- (IBAction)touchButton:(id)sender {
+    self.mylabel.text = @"jesse";
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
